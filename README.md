@@ -4,5 +4,5 @@ add notes about each one to this repository as I go. I hope you
 find this helpful!
 
 ### Strategy Pattern
-- [Strategy  Example](strategy/DuckSimulator.java)
-- [Strategy Notes](strategy/strategyNotes.md)
+- [Strategy  Example](src/main/java/com/welcometodannyland/strategy/DuckSimulator.java)
+- [Strategy Notes](src/main/java/com/welcometodannyland/strategy/strategyNotes.md)
