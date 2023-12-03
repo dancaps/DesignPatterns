@@ -1,7 +1,9 @@
 # Design Patterns with Java
 I'm studying design patterns. I will be creating examples and 
 adding notes about each one to this repository as I go. I hope you
-find this helpful!
+find this interesting!
+
+
 
 ### Design Principles
 > <ol>
